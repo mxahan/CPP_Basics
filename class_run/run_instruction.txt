@@ -1,4 +1,4 @@
-gcc - Cat.cpp # run the class file to initialize will create Cat.o
+gcc -c Cat.cpp # run the class file to initialize will create Cat.o
 g++ class_tut.cpp Cat.o -o output # link the files together.
 ./output # as usual..
 
