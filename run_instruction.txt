@@ -1,0 +1,7 @@
+In the ubuntu terminal create a output file by the following command
+
+>>> g++ for_test.cpp -o output
+
+Now call the output by the following command
+
+>>> ./output
