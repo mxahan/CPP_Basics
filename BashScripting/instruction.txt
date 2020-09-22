@@ -1,0 +1,7 @@
+First provide permission like 
+
+## chmod 755 hello_world 
+
+and now run like
+
+## ./hello_world
