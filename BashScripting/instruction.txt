@@ -1,7 +1,21 @@
 First provide permission like 
+#  https://help.ubuntu.com/community/Beginners/BashScripting
 
 ## chmod 755 hello_world 
 
 and now run like
 
 ## ./hello_world
+
+If it is saved in .sh file format
+
+## chmod 755 hello_world.sh 
+
+and now run like
+
+## ./hello_world.sh
+
+
+instead of chmod 755 we can also write chmod a+x or chmod 700
+
+Google them for further ideas. 
